@@ -15,7 +15,7 @@ Link Google Playstore: https://play.google.com/store/apps/details?id=id.ac.umn.c
 
 
 Github Link:
-https://github.com/Koongh/UAS-MobileApps 
+https://github.com/Michael9921/UAS-Mobile-App 
 
 
 
